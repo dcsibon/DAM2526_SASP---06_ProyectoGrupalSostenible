@@ -217,6 +217,12 @@ En la presentación:
 
 ---
 
+## 🧾 Modelo de Ejemplo
+
+### [ReBootHub – Reutilización y reacondicionamiento de dispositivos](ModeloDeEjemplo.md)
+
+---
+
 ## 💡 Consejos finales
 
 * Planificad antes de empezar a programar.
